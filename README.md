@@ -107,6 +107,3 @@ Try saying things like:
 - Some system commands are Windows-focused.
 - WhatsApp messaging uses `pywhatkit` and may open a browser session.
 - News is currently set to `country=ke` (Kenya) in the NewsAPI request. You can change this in `Functions/online_ops.py`.
-
-## License
-No license specified yet. Add a LICENSE file if you want to define usage terms.
