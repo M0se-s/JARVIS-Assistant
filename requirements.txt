@@ -1,0 +1,6 @@
+requests
+wikipedia
+pywhatkit
+python-decouple
+pyttsx3
+SpeechRecognition
